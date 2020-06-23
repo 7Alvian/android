@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bias Biography</string>
+    <string name="name">name</string>
+    <string name="detail">detail</string>
+    <string name="fullname">Full Name</string>
+    <string name="content">content</string>
+    <string name="birthdate">Date of Birth</string>
+    <string name="bio">Bio</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="height_content">height_content</string>
+    <string name="birth_content">birth_content</string>
+    <string name="weight_content">weight_content</string>
+    <string name="fullname_content">fullname_content</string>
+    <string name="nameAuthor">Nama</string>
+    <string name="Author">Rizki Alvian Febriani</string>
+    <string name="asalAuthor">Asal</string>
+    <string name="daerah">Mojokerto, Jawa Timur</string>
+    <string name="emailAuthor">Email</string>
+    <string name="namaEmail">the.invecto@gmail.com</string>
+</resources>
